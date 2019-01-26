@@ -1,4 +1,4 @@
-# Spring Boot Rest API Example
+# Spring Boot Rest API
 
 Basic useful feature list:
 
